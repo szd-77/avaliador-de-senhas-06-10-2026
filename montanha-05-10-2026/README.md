@@ -1,3 +1,4 @@
+está em (CODE)
 REGISTRO DE TESTE
 abc	      ❌ Menos de 8 caracteres
 abcdefgh	❌ Sem número
