@@ -1,5 +1,5 @@
 REGISTRO DE TESTE
-abc	        ❌ Menos de 8 caracteres
+abc	      ❌ Menos de 8 caracteres
 abcdefgh	❌ Sem número
 senha123	❌ Senha óbvia
 abcdefgh1	❌ Sem maiúscula
